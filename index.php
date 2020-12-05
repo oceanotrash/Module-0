@@ -53,7 +53,7 @@ if(isset($_POST['submit']))
 
 <table>
   <thead>
-
+    
     <tr>
 
       <th>N</th>
