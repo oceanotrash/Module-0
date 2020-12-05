@@ -1,9 +1,56 @@
-.title{
-    text-align: center;
-    margin-top: 25px;
+.heading{
+  width: 50%;
+  margin: 30px auto;
+  text-align: center;
+  
 }
-.form{
-    margin:auto;
-    max-width: 80%;
-    text-align: center;
+
+form{
+      margin: auto;
+      max-width:400px;
+      text-align: center
+  
 }
+
+form p{
+  color: red;
+  margin: 0px;
+}
+
+table{
+  width: 50%;
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+
+tr{
+  border-bottom: 1px solid #ccbbcc;
+}
+
+th{
+  font-size: 19px;
+  color: #6B8e23
+}
+
+th, td{
+  border: none;
+  height: 30px;
+  padding: 2px;
+
+}
+
+tr:hover{
+  background: #ee99ee;
+}
+
+.text{
+  text-align: left;
+}
+
+.delete{
+  text-align: center;
+  padding: 1px 6px;
+}
+
+
+
